@@ -1,0 +1,114 @@
+.button {
+
+    padding: 12px 28px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: black; 
+    color: white; 
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .button2 {
+    background-color: black; 
+    color: white; 
+  }
+  
+  .button2:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  header
+{
+	padding: 10px;
+	background: #000000;
+	opacity: 0.7;
+}
+
+body
+{
+  margin:0px;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 50px;
+}
+
+span
+{
+  display: flex;
+  text-align: center;
+  font-size: 27px;
+  display: inline-block;
+  width: 450px;
+  margin: 0px;
+}
+
+h6
+{
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.founder
+{
+  padding-left: 0px;
+  margin-left: 0px;
+  width: auto;
+}
+
+a
+{
+  color: blue;
+  text-decoration: none;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  width:auto;
+}
+
+.flex-container > div {
+  margin: 0px;
+  padding: 10px;
+}
+
+footer
+{
+  margin-top: 50px;
+  display: flex;
+  background-color:rgba(5, 5, 5, .3);
+}
+
+.logos 
+{
+  margin: 10px;
+  
+}
+
+.movelogo
+{
+  display: flex;
+  justify-content: end;
+  width:100%;
+}
+
+.email
+{
+  margin-left: 5px;
+  margin-top: 5px;
+}
